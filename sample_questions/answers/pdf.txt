@@ -1,0 +1,4 @@
+The data provided is a receipt for a payment made to Bharat Sanchar Nigam Limited (BSNL), a government enterprise in India. The payment amount is Rs. 1863.00 and the payment is successful. The receipt includes details such as the receipt number, transaction ID, transaction date, phone number, account number, bank reference number, and invoice number.
+The recipient is Bharat Sanchar Nigam Limited.
+The transaction was made on 17/09/2023 at 18:12:00.
+The amount of the transaction is Rs. 1863.00/-.

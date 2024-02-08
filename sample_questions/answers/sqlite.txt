@@ -1,0 +1,2 @@
+There are 13 tables.
+The table names are albums, sqlite_sequence, artists, customers, employees, genres, invoices, invoice_items, media_types, playlists, playlist_track, tracks, and sqlite_stat1.

@@ -1,0 +1,5 @@
+There are 252 rows in this dataframe.
+There are 7 columns in this dataframe.
+The data has 252 rows and 7 columns.
+The date for the least opening price is 2023-01-06 with a value of 103.0.
+2023-07-18

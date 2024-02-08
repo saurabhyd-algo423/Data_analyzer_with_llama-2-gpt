@@ -1,0 +1,2 @@
+CONVERSATION_HISTORY_SESSION_STATE ='conversation_history'
+USER_TEXT_SESSION_STATE = 'user_input'

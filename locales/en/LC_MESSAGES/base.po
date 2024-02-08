@@ -1,0 +1,504 @@
+#
+msgid ""
+msgstr ""
+"Language-Team: English\n"
+"Language: en\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: homepage_content - Copy.py:22 app.py:88
+msgid "Interactive Data Analyser"
+msgstr "Interactive Data Analyser"
+
+#: homepage_content - Copy.py:23 homepage_content.py:15
+#: homepage_content.py:208 homepage_content.py:223 homepage_content.py:503
+msgid "Analyze your data in a live interactive manner"
+msgstr "Analyze your data in a live interactive manner"
+
+#: homepage_content - Copy.py:24
+msgid "Ask queries to your CSV, TSV, EXCEL files in natural language."
+msgstr "Ask queries to your CSV, TSV, EXCEL files in natural language."
+
+#: homepage_content - Copy.py:25
+msgid "Plot graphs from data. "
+msgstr "Plot graphs from data."
+
+#: homepage_content - Copy.py:26
+msgid ""
+"Analyse textual data in different formats such as PDFs, TXT and DOC files."
+msgstr ""
+"Analyse textual data in different formats such as PDFs, TXT and DOC files."
+
+#: homepage_content - Copy.py:27
+msgid ""
+"Work with multiple sheets in excel. Analyse it as dataframes or use it as a "
+"database."
+msgstr ""
+"Work with multiple sheets in excel. Analyse it as dataframes or use it as a "
+"database."
+
+#: homepage_content - Copy.py:28
+msgid ""
+"No need to write SQL queries, just upload your sqlite database file and chat"
+" naturally."
+msgstr ""
+"No need to write SQL queries, just upload your sqlite database file and chat"
+" naturally."
+
+#: homepage_content - Copy.py:57
+msgid "Tired of writing code to analyze data files?"
+msgstr "Tired of writing code to analyze data files?"
+
+#: homepage_content - Copy.py:94
+msgid "Intelligent Data Processing"
+msgstr "Intelligent Data Processing"
+
+#: homepage_content - Copy.py:95
+msgid ""
+"Say goodbye to writing complex data processing and analysis code! Our state-"
+"of-the-art analyzer chatbot adeptly deciphers queries and seamlessly "
+"conducts data processing. Thanks to its natural language query capability, "
+"you can now wave goodbye to concerns over syntax errors and the tiresome "
+"quest for online solutions."
+msgstr ""
+"Say goodbye to writing complex data processing and analysis code! Our state-"
+"of-the-art analyzer chatbot adeptly deciphers queries and seamlessly "
+"conducts data processing. Thanks to its natural language query capability, "
+"you can now wave goodbye to concerns over syntax errors and the tiresome "
+"quest for online solutions."
+
+#: homepage_content - Copy.py:99
+msgid "Precise Responses"
+msgstr "Precise Responses"
+
+#: homepage_content - Copy.py:100
+msgid ""
+"No need for extensive explanations. Our chatbot delivers responses with "
+"utmost precision and clarity, skillfully distilling intricate information "
+"into easily digestible summaries. It not only furnishes swift and precise "
+"answers but also trims down the time invested in exploratory data analysis."
+msgstr ""
+"No need for extensive explanations. Our chatbot delivers responses with "
+"utmost precision and clarity, skillfully distilling intricate information "
+"into easily digestible summaries. It not only furnishes swift and precise "
+"answers but also trims down the time invested in exploratory data analysis."
+
+#: homepage_content - Copy.py:104
+msgid "Contextually Aware"
+msgstr "Contextually Aware"
+
+#: homepage_content - Copy.py:105
+msgid ""
+"Our chatbot possesses the intelligence to discern questions that diverge "
+"from context or demand additional information. It actively partakes in "
+"interactive dialogues, skillfully directing users to furnish the essential "
+"particulars for precise responses. This guarantees that each interaction "
+"bears fruit and carries substantial meaning."
+msgstr ""
+"Our chatbot possesses the intelligence to discern questions that diverge "
+"from context or demand additional information. It actively partakes in "
+"interactive dialogues, skillfully directing users to furnish the essential "
+"particulars for precise responses. This guarantees that each interaction "
+"bears fruit and carries substantial meaning."
+
+#: contact.py:9
+msgid "Address"
+msgstr "Address"
+
+#: contact.py:10
+msgid ""
+"Alacrity India Innovation Centre, Ideas to Impacts Building.\n"
+"\n"
+"                \n"
+"Pallod Farm Lane 3, \n"
+"\n"
+" Near Vijay Sales, \n"
+"\n"
+" Baner Road, Pune - 411045"
+msgstr ""
+"Alacrity India Innovation Centre, Ideas to Impacts Building.\n"
+"\n"
+"                \n"
+"Pallod Farm Lane 3, \n"
+"\n"
+" Near Vijay Sales, \n"
+"\n"
+" Baner Road, Pune - 411045"
+
+#: contact.py:16
+msgid "Email"
+msgstr "Email"
+
+#: contact.py:17
+msgid "info@algoanalytics.com"
+msgstr "info@algoanalytics.com"
+
+#: contact.py:43
+msgid "Social Presence"
+msgstr "Social Presence"
+
+#: homepage_content.py:16 homepage_content.py:209 homepage_content.py:224
+#: homepage_content.py:504
+msgid ""
+"Ask your queries from different types of data files and visualize the data."
+msgstr ""
+"Ask your queries from different types of data files and visualize the data."
+
+#: homepage_content.py:83 homepage_content.py:489 homepage_content.py:923
+msgid "Try Demo"
+msgstr "Try Demo"
+
+#: homepage_content.py:88 homepage_content.py:212 homepage_content.py:507
+msgid "Your Personal AI data analyser"
+msgstr "Your Personal AI data analyser"
+
+#: homepage_content.py:89 homepage_content.py:213 homepage_content.py:508
+msgid ""
+"Say goodbye to writing complex data processing and analysis code! Our state-"
+"of-the-art analyzer chatbot adeptly deciphers queries and seamlessly "
+"conducts data processing."
+msgstr ""
+"Say goodbye to writing complex data processing and analysis code! Our state-"
+"of-the-art analyzer chatbot adeptly deciphers queries and seamlessly "
+"conducts data processing."
+
+#: homepage_content.py:93 homepage_content.py:215 homepage_content.py:510
+msgid "Some feature highlights"
+msgstr "Some feature highlights"
+
+#: homepage_content.py:94 homepage_content.py:216 homepage_content.py:511
+msgid ""
+"Ask queries to your CSV, TSV, EXCEL files in natural language and plot "
+"graphs. Analyse textual data in different formats such as PDFs, TXT and DOC "
+"files. Work with multiple sheets in excel."
+msgstr ""
+"Ask queries to your CSV, TSV, EXCEL files in natural language and plot "
+"graphs. Analyse textual data in different formats such as PDFs, TXT and DOC "
+"files. Work with multiple sheets in excel."
+
+#: homepage_content.py:98 homepage_content.py:218 homepage_content.py:513
+msgid "Less time for your EDA"
+msgstr "Less time for your EDA"
+
+#: homepage_content.py:99 homepage_content.py:219 homepage_content.py:514
+msgid ""
+"No need for extensive explanations. Our chatbot delivers responses with "
+"precision and clarity, skillfully distilling intricate information into "
+"easily digestible summaries."
+msgstr ""
+"No need for extensive explanations. Our chatbot delivers responses with "
+"precision and clarity, skillfully distilling intricate information into "
+"easily digestible summaries."
+
+#: homepage_content.py:210 homepage_content.py:505
+msgid "Powered by Large Language Models (LLM)"
+msgstr "Powered by Large Language Models (LLM)"
+
+#: app.py:154
+msgid "LLM Dashboard"
+msgstr "LLM Dashboard"
+
+#: app.py:183
+msgid "Overview"
+msgstr "Overview"
+
+#: app.py:183
+msgid "Demo"
+msgstr "Demo"
+
+#: app.py:183
+msgid "Contact us"
+msgstr "Contact us"
+
+#: dashboard.py:50
+msgid ""
+"Welcome, you can ask queries in your natural language from different file "
+"formats just as you use code to extract information. In excel, you can "
+"analyse each sheets as a dataframe or use whole file as a database. With "
+"PDF, DOC and TXT files, you can chat with the data inside. Check the Need "
+"Help section below on how to proceed."
+msgstr ""
+"Welcome, you can ask queries in your natural language from different file "
+"formats just as you use code to extract information. In excel, you can "
+"analyse each sheets as a dataframe or use whole file as a database. With "
+"PDF, DOC and TXT files, you can chat with the data inside. Check the Need "
+"Help section below on how to proceed."
+
+#: dashboard.py:51
+msgid ""
+"Please only ask to plot graphs in CSV and TSV file type. Check sample "
+"questions to get familiar with graph queries."
+msgstr ""
+"Please only ask to plot graphs in CSV and TSV file type. Check sample "
+"questions to get familiar with graph queries."
+
+#: dashboard.py:54
+msgid "File Upload"
+msgstr "File Upload"
+
+#: dashboard.py:54
+msgid "Interactive chatbot"
+msgstr "Interactive chatbot"
+
+#: dashboard.py:54 dashboard.py:60 dashboard.py:65
+msgid "Login"
+msgstr "Login"
+
+#: dashboard.py:68
+msgid "Logout"
+msgstr "Logout"
+
+#: dashboard.py:72
+msgid "Username/password is incorrect"
+msgstr "Username/password is incorrect"
+
+#: dashboard.py:81
+msgid "Select your data files here"
+msgstr "Select your data files here"
+
+#: dashboard.py:84
+msgid "Need help"
+msgstr "Need help"
+
+#: dashboard.py:85
+msgid ""
+"1. In the File Upload section, select a file type you want to analyse.\n"
+"2. Move forward with either sample file or upload your own.\n"
+"4. If you choose EXCEL further choose the type of analysis you want to do and then choose which sheets you want to analyse together. \n"
+"4. After above steps you are ready to interact with your data. Move to the Interactive Chatbot section where you can use sample questions to take the demo.\n"
+"5. If you want to use your own questions, please login.\n"
+"6. For access and additional assistance, please get in touch with us at info@algoanalytics.com"
+msgstr ""
+"1. In the File Upload section, select a file type you want to analyse.\n"
+"2. Move forward with either sample file or upload your own.\n"
+"4. If you choose EXCEL further choose the type of analysis you want to do and then choose which sheets you want to analyse together. \n"
+"4. After above steps you are ready to interact with your data. Move to the Interactive Chatbot section where you can use sample questions to take the demo.\n"
+"5. If you want to use your own questions, please login.\n"
+"6. For access and additional assistance, please get in touch with us at info@algoanalytics.com"
+
+#: dashboard.py:89
+msgid "File type you would like to analyse"
+msgstr "File type you would like to analyse"
+
+#: dashboard.py:90
+msgid "Select the file type you want to analyse"
+msgstr "Select the file type you want to analyse"
+
+#: dashboard.py:92
+msgid "Choose what to do with your file"
+msgstr "Choose what to do with your file"
+
+#: dashboard.py:93
+msgid ""
+"Analyse multiple sheets together as dataframes (Each multiple file is "
+"considered to be a dataframe)"
+msgstr ""
+"Analyse multiple sheets together as dataframes (Each multiple file is "
+"considered to be a dataframe)"
+
+#: dashboard.py:94
+msgid ""
+"Proceed as a relational database (Each sheet will be converted to a table in"
+" SQL database.)"
+msgstr ""
+"Proceed as a relational database (Each sheet will be converted to a table in"
+" SQL database.)"
+
+#: dashboard.py:97
+msgid ""
+"Select one of the below options to proceed with different types of analysis"
+msgstr ""
+"Select one of the below options to proceed with different types of analysis"
+
+#: dashboard.py:103
+msgid "OR"
+msgstr "OR"
+
+#: dashboard.py:122
+msgid "Use the Sample file"
+msgstr "Use the Sample file"
+
+#: dashboard.py:126
+msgid "Select sample file"
+msgstr "Select sample file"
+
+#: dashboard.py:127
+msgid ""
+"By default a sample file is provided, in case you want to analyse your own "
+"file please upload in the right section."
+msgstr ""
+"By default a sample file is provided, in case you want to analyse your own "
+"file please upload in the right section."
+
+#: dashboard.py:134
+msgid "Upload your own files"
+msgstr "Upload your own files"
+
+#: dashboard.py:139
+msgid "Choose a file"
+msgstr "Choose a file"
+
+#: dashboard.py:140
+msgid ""
+"Here you can upload your own file, the file size limit is kept to 1 MB. "
+"Please make sure that the file you upload is of the same file type you "
+"choose above."
+msgstr ""
+"Here you can upload your own file, the file size limit is kept to 1 MB. "
+"Please make sure that the file you upload is of the same file type you "
+"choose above."
+
+#: dashboard.py:153
+msgid "Uploaded file selected for analysis"
+msgstr "Uploaded file selected for analysis"
+
+#: dashboard.py:172
+msgid "Sample file selected for analysis"
+msgstr "Sample file selected for analysis"
+
+#: dashboard.py:187
+msgid "Need help ?"
+msgstr "Need help ?"
+
+#: dashboard.py:188
+msgid ""
+"1.For demo, select a sample question and press the \"Use question\" button. \n"
+" If you want to ask your own queries, type in text input and then use the \"Get answer\" button to get the answer.\""
+msgstr ""
+"1.For demo, select a sample question and press the \"Use question\" button. \n"
+" If you want to ask your own queries, type in text input and then use the \"Get answer\" button to get the answer.\""
+
+#: dashboard.py:193
+msgid "Document Viewer"
+msgstr "Document Viewer"
+
+#: dashboard.py:201
+msgid "Ask your data queries here"
+msgstr "Ask your data queries here"
+
+#: dashboard.py:223
+msgid "For your own queries, please login for chat functionality"
+msgstr "For your own queries, please login for chat functionality"
+
+#: dashboard.py:233
+msgid "Choose a sample question"
+msgstr "Choose a sample question"
+
+#: dashboard.py:234
+msgid ""
+"Here few sample questions are provided in dropdown you can check that but if"
+" you want to ask your own questions, please login."
+msgstr ""
+"Here few sample questions are provided in dropdown you can check that but if"
+" you want to ask your own questions, please login."
+
+#: dashboard.py:236
+msgid "Use question"
+msgstr "Use question"
+
+#: dashboard.py:241
+msgid "Chat with our LLM-Powered Agent"
+msgstr "Chat with our LLM-Powered Agent"
+
+#: dashboard.py:242
+msgid "Get Answer"
+msgstr "Get Answer"
+
+#: dashboard.py:271
+msgid "Generating your answer ✨"
+msgstr "Generating your answer ✨"
+
+#: dashboard.py:289
+msgid "This query does not require answer"
+msgstr "This query does not require answer"
+
+#: dashboard.py:291
+msgid "This query requires above plot"
+msgstr "This query requires above plot"
+
+#: dashboard.py:305
+msgid ""
+"Something went wrong! Not able to find anything. Please ask another "
+"question."
+msgstr ""
+"Something went wrong! Not able to find anything. Please ask another "
+"question."
+
+#: utils/load.py:177
+msgid "File format is incorrect."
+msgstr "File format is incorrect."
+
+#: utils/load.py:254
+msgid ""
+"For the best experience, use a competible browser and view at 1280x720 "
+"resolution."
+msgstr ""
+"For the best experience, use a competible browser and view at 1280x720 "
+"resolution."
+
+#: utils/load.py:255
+msgid "2023 AlgoAnalytics, All rights reserved."
+msgstr "2023 AlgoAnalytics, All rights reserved."
+
+#: utils/load.py:256
+msgid " About "
+msgstr "About"
+
+#: utils/load.py:257
+msgid " Services "
+msgstr "Services"
+
+#: utils/load.py:258
+msgid " Contact "
+msgstr "Contact"
+
+#: utils/visualise_files.py:18
+msgid "Which sheet number you would like to see ? "
+msgstr "Which sheet number you would like to see ?"
+
+#: utils/visualise_files.py:19
+msgid "Choose the sheet number you want to see as a tabular format."
+msgstr "Choose the sheet number you want to see as a tabular format."
+
+#: utils/visualise_files.py:22
+msgid "Using excel as a database now. Therefore nothing to display."
+msgstr "Using excel as a database now. Therefore nothing to display."
+
+#: utils/visualise_files.py:24
+msgid "Using SQLITE database currently."
+msgstr "Using SQLITE database currently."
+
+#: utils/visualise_files.py:54
+msgid "Travel Document : Chennai Tour Guide "
+msgstr "Travel Document : Chennai Tour Guide"
+
+#: utils/visualise_files.py:60
+msgid "SQL Database: Hotels Information"
+msgstr "SQL Database: Hotels Information"
+
+#: utils/visualise_files.py:85
+msgid "Web search : Google search API"
+msgstr "Web search : Google search API"
+
+#: utils/file_type_specific.py:11
+msgid ""
+"Which sheets would you like to analyse(In case you do not choose any, by "
+"default first sheet will be automatically selected)"
+msgstr ""
+"Which sheets would you like to analyse(In case you do not choose any, by "
+"default first sheet will be automatically selected)"
+
+#: utils/file_type_specific.py:34
+msgid "You selected:"
+msgstr "You selected:"
+
+#: utils/file_type_specific.py:69
+msgid "Error while checking the file. Please try again."
+msgstr "Error while checking the file. Please try again."
+
+#: utils/file_type_specific.py:74
+msgid "The format is wrong(Should be a dictionary type)"
+msgstr "The format is wrong(Should be a dictionary type)"
+
+#: chat/chat_ui_utils.py:39
+msgid "Clear conversation"
+msgstr "Clear conversation"

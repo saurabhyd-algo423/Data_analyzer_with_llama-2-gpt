@@ -1,0 +1,7 @@
+The date with the highest difference between Open and Close is 2022-10-14 with a difference of 19.019990000000007.
+The volume has crossed 100000000 199 times.
+The data has 252 rows and 7 columns.
+The date for the least opening price is 2023-01-06 with a value of 103.0.
+2023-07-18
+This query requires above plot
+This query requires above plot

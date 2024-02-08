@@ -1,0 +1,7 @@
+Which date has the highest difference between open and close column. Mention the difference value also.
+How many times the volume has crosses 100000000?
+What is the shape of the data?
+What is the date for least opening price? Mention the value also.
+What is the date for highest closing price?
+Line chart of values in open column?
+with month name on x-axis and in serial number, make a chart of histogram of average open values per month with gap in each bar

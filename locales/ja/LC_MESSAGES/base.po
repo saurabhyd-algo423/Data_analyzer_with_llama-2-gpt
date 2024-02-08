@@ -1,0 +1,458 @@
+#
+msgid ""
+msgstr ""
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: homepage_content - Copy.py:22 app.py:88
+msgid "Interactive Data Analyser"
+msgstr "インタラクティブデータアナライザー"
+
+#: homepage_content - Copy.py:23 homepage_content.py:15
+#: homepage_content.py:208 homepage_content.py:223 homepage_content.py:503
+msgid "Analyze your data in a live interactive manner"
+msgstr "ライブインタラクティブな方法でデータを分析します"
+
+#: homepage_content - Copy.py:24
+msgid "Ask queries to your CSV, TSV, EXCEL files in natural language."
+msgstr "CSV、TSV、Excelファイルに自然言語でクエリを尋ねます。"
+
+#: homepage_content - Copy.py:25
+msgid "Plot graphs from data. "
+msgstr "データからグラフをプロットします。"
+
+#: homepage_content - Copy.py:26
+msgid ""
+"Analyse textual data in different formats such as PDFs, TXT and DOC files."
+msgstr "PDF、TXT、DOCファイルなどのさまざまな形式でテキストデータを分析します。"
+
+#: homepage_content - Copy.py:27
+msgid ""
+"Work with multiple sheets in excel. Analyse it as dataframes or use it as a "
+"database."
+msgstr "Excelで複数のシートを使用して作業します。データフレームとして分析するか、データベースとして使用します。"
+
+#: homepage_content - Copy.py:28
+msgid ""
+"No need to write SQL queries, just upload your sqlite database file and chat"
+" naturally."
+msgstr "SQLクエリを作成する必要はありません。SQLiteデータベースファイルをアップロードして自然にチャットするだけです。"
+
+#: homepage_content - Copy.py:57
+msgid "Tired of writing code to analyze data files?"
+msgstr "データファイルを分析するコードを作成するのにうんざりしていませんか？"
+
+#: homepage_content - Copy.py:94
+msgid "Intelligent Data Processing"
+msgstr "インテリジェントなデータ処理"
+
+#: homepage_content - Copy.py:95
+msgid ""
+"Say goodbye to writing complex data processing and analysis code! Our state-"
+"of-the-art analyzer chatbot adeptly deciphers queries and seamlessly "
+"conducts data processing. Thanks to its natural language query capability, "
+"you can now wave goodbye to concerns over syntax errors and the tiresome "
+"quest for online solutions."
+msgstr ""
+"複雑なデータ処理と分析コードの作成に別れを告げましょう！当社の最先端のアナライザーチャットボットは、Queriesを巧みに解読し、データ処理をシームレスに実行します。自然言語のクエリ機能のおかげで、構文エラーとオンラインソリューションの面倒なクエストに対する懸念にさよならを振ることができます。"
+
+#: homepage_content - Copy.py:99
+msgid "Precise Responses"
+msgstr "正確な応答"
+
+#: homepage_content - Copy.py:100
+msgid ""
+"No need for extensive explanations. Our chatbot delivers responses with "
+"utmost precision and clarity, skillfully distilling intricate information "
+"into easily digestible summaries. It not only furnishes swift and precise "
+"answers but also trims down the time invested in exploratory data analysis."
+msgstr ""
+"広範な説明は必要ありません。チャットボットは、最大限の精度と明確さで応答を提供し、複雑な情報を簡単に消化可能な要約に巧みに蒸留します。迅速かつ正確な答えを提供するだけでなく、探索的データ分析に投資された時間をトリミングします。"
+
+#: homepage_content - Copy.py:104
+msgid "Contextually Aware"
+msgstr "文脈的に認識"
+
+#: homepage_content - Copy.py:105
+msgid ""
+"Our chatbot possesses the intelligence to discern questions that diverge "
+"from context or demand additional information. It actively partakes in "
+"interactive dialogues, skillfully directing users to furnish the essential "
+"particulars for precise responses. This guarantees that each interaction "
+"bears fruit and carries substantial meaning."
+msgstr ""
+"私たちのチャットボットは、コンテキストから分かれたり、追加情報を要求する質問を識別するためのインテリジェンスを持っています。インタラクティブな対話に積極的に参加し、ユーザーに正確な応答のために重要な詳細を提供するように巧みに指示します。これにより、各相互作用が実を結び、実質的な意味があることが保証されます。"
+
+#: contact.py:9
+msgid "Address"
+msgstr "住所"
+
+#: contact.py:10
+msgid ""
+"Alacrity India Innovation Centre, Ideas to Impacts Building.\n"
+"\n"
+"                \n"
+"Pallod Farm Lane 3, \n"
+"\n"
+" Near Vijay Sales, \n"
+"\n"
+" Baner Road, Pune - 411045"
+msgstr ""
+"Alacrity India Innovation Center、Ideas to Imfactime Building。\n"
+"\n"
+"                \n"
+"パロドファームレーン3、\n"
+"\n"
+" 近くのヴィジェイセールス、\n"
+"\n"
+" バナーロード、プネー-411045"
+
+#: contact.py:16
+msgid "Email"
+msgstr "Eメール"
+
+#: contact.py:17
+msgid "info@algoanalytics.com"
+msgstr "info@algoanalytics.com"
+
+#: contact.py:43
+msgid "Social Presence"
+msgstr "社会的存在"
+
+#: homepage_content.py:16 homepage_content.py:209 homepage_content.py:224
+#: homepage_content.py:504
+msgid ""
+"Ask your queries from different types of data files and visualize the data."
+msgstr "さまざまな種類のデータファイルからクエリを尋ね、データを視覚化します。"
+
+#: homepage_content.py:83 homepage_content.py:489 homepage_content.py:923
+msgid "Try Demo"
+msgstr "デモを試してみてください"
+
+#: homepage_content.py:88 homepage_content.py:212 homepage_content.py:507
+msgid "Your Personal AI data analyser"
+msgstr "あなたの個人的なAIデータアナライザー"
+
+#: homepage_content.py:89 homepage_content.py:213 homepage_content.py:508
+msgid ""
+"Say goodbye to writing complex data processing and analysis code! Our state-"
+"of-the-art analyzer chatbot adeptly deciphers queries and seamlessly "
+"conducts data processing."
+msgstr ""
+"複雑なデータ処理と分析コードの作成に別れを告げましょう！当社の最先端のアナライザーチャットボットは、Queriesを巧みに解読し、データ処理をシームレスに実行します。"
+
+#: homepage_content.py:93 homepage_content.py:215 homepage_content.py:510
+msgid "Some feature highlights"
+msgstr "いくつかの機能ハイライト"
+
+#: homepage_content.py:94 homepage_content.py:216 homepage_content.py:511
+msgid ""
+"Ask queries to your CSV, TSV, EXCEL files in natural language and plot "
+"graphs. Analyse textual data in different formats such as PDFs, TXT and DOC "
+"files. Work with multiple sheets in excel."
+msgstr ""
+"CSV、TSV、Excelファイルにクエリを尋ね、グラフをプロットします。PDF、TXT、DOCファイルなどのさまざまな形式でテキストデータを分析します。Excelで複数のシートを使用して作業します。"
+
+#: homepage_content.py:98 homepage_content.py:218 homepage_content.py:513
+msgid "Less time for your EDA"
+msgstr "あなたのEDAの時間が短くなります"
+
+#: homepage_content.py:99 homepage_content.py:219 homepage_content.py:514
+msgid ""
+"No need for extensive explanations. Our chatbot delivers responses with "
+"precision and clarity, skillfully distilling intricate information into "
+"easily digestible summaries."
+msgstr "広範な説明は必要ありません。チャットボットは、正確さと明確さで応答を提供し、複雑な情報を簡単に消化できる要約に巧みに蒸留します。"
+
+#: homepage_content.py:210 homepage_content.py:505
+msgid "Powered by Large Language Models (LLM)"
+msgstr "大規模な言語モデル（LLM）を搭載"
+
+#: app.py:154
+msgid "LLM Dashboard"
+msgstr "LLMダッシュボード"
+
+#: app.py:183
+msgid "Overview"
+msgstr "概要"
+
+#: app.py:183
+msgid "Demo"
+msgstr "デモ"
+
+#: app.py:183
+msgid "Contact us"
+msgstr "お問い合わせ"
+
+#: dashboard.py:50
+msgid ""
+"Welcome, you can ask queries in your natural language from different file "
+"formats just as you use code to extract information. In excel, you can "
+"analyse each sheets as a dataframe or use whole file as a database. With "
+"PDF, DOC and TXT files, you can chat with the data inside. Check the Need "
+"Help section below on how to proceed."
+msgstr ""
+"ようこそ、コードを使用して情報を抽出するのと同じように、さまざまなファイル形式から自然言語のクエリを尋ねることができます。Excelでは、各シートをデータフレームとして分析したり、ファイル全体をデータベースとして使用したりできます。PDF、DOC、TXTファイルを使用すると、内部のデータとチャットできます。次の方法について、以下のヘルプヘルプセクションを確認してください。"
+
+#: dashboard.py:51
+msgid ""
+"Please only ask to plot graphs in CSV and TSV file type. Check sample "
+"questions to get familiar with graph queries."
+msgstr "CSVおよびTSVファイルタイプでグラフをプロットするように依頼してください。サンプルの質問を確認して、グラフクエリに精通してください。"
+
+#: dashboard.py:54
+msgid "File Upload"
+msgstr "ファイルアップロード"
+
+#: dashboard.py:54
+msgid "Interactive chatbot"
+msgstr "インタラクティブなチャットボット"
+
+#: dashboard.py:54 dashboard.py:60 dashboard.py:65
+msgid "Login"
+msgstr "ログイン"
+
+#: dashboard.py:68
+msgid "Logout"
+msgstr "ログアウト"
+
+#: dashboard.py:72
+msgid "Username/password is incorrect"
+msgstr "ユーザー名/パスワードが正しくありません"
+
+#: dashboard.py:81
+msgid "Select your data files here"
+msgstr "ここでデータファイルを選択してください"
+
+#: dashboard.py:84
+msgid "Need help"
+msgstr "助けが必要"
+
+#: dashboard.py:85
+msgid ""
+"1. In the File Upload section, select a file type you want to analyse.\n"
+"2. Move forward with either sample file or upload your own.\n"
+"4. If you choose EXCEL further choose the type of analysis you want to do and then choose which sheets you want to analyse together. \n"
+"4. After above steps you are ready to interact with your data. Move to the Interactive Chatbot section where you can use sample questions to take the demo.\n"
+"5. If you want to use your own questions, please login.\n"
+"6. For access and additional assistance, please get in touch with us at info@algoanalytics.com"
+msgstr ""
+"1.ファイルアップロードセクションで、分析するファイルタイプを選択します。\n"
+"2.サンプルファイルのいずれかで前進するか、独自のファイルをアップロードします。\n"
+"4. Excelを選択する場合は、実行する分析のタイプを選択し、一緒に分析するシートを選択します。\n"
+"4.上記の手順の後、データと対話する準備ができています。サンプルの質問を使用してデモを取得できるインタラクティブなチャットボットセクションに移動します。\n"
+"5.独自の質問を使用する場合は、ログインしてください。\n"
+"6.アクセスと追加の支援については、info@algoanalytics.comでご連絡ください"
+
+#: dashboard.py:89
+msgid "File type you would like to analyse"
+msgstr "分析したいファイルタイプ"
+
+#: dashboard.py:90
+msgid "Select the file type you want to analyse"
+msgstr "分析するファイルタイプを選択します"
+
+#: dashboard.py:92
+msgid "Choose what to do with your file"
+msgstr "ファイルをどうするかを選択してください"
+
+#: dashboard.py:93
+msgid ""
+"Analyse multiple sheets together as dataframes (Each multiple file is "
+"considered to be a dataframe)"
+msgstr "データフレームとして複数のシートを分析します（各複数のファイルはデータフレームと見なされます）"
+
+#: dashboard.py:94
+msgid ""
+"Proceed as a relational database (Each sheet will be converted to a table in"
+" SQL database.)"
+msgstr "リレーショナルデータベースとして続行します（各シートはSQLデータベースのテーブルに変換されます。）"
+
+#: dashboard.py:97
+msgid ""
+"Select one of the below options to proceed with different types of analysis"
+msgstr "以下のオプションのいずれかを選択して、さまざまな種類の分析を続行します"
+
+#: dashboard.py:103
+msgid "OR"
+msgstr "または"
+
+#: dashboard.py:122
+msgid "Use the Sample file"
+msgstr "サンプルファイルを使用します"
+
+#: dashboard.py:126
+msgid "Select sample file"
+msgstr "サンプルファイルを選択します"
+
+#: dashboard.py:127
+msgid ""
+"By default a sample file is provided, in case you want to analyse your own "
+"file please upload in the right section."
+msgstr "デフォルトでは、サンプルファイルが提供されます。独自のファイルを分析する場合は、適切なセクションにアップロードしてください。"
+
+#: dashboard.py:134
+msgid "Upload your own files"
+msgstr "独自のファイルをアップロードします"
+
+#: dashboard.py:139
+msgid "Choose a file"
+msgstr "ファイルを選択します"
+
+#: dashboard.py:140
+msgid ""
+"Here you can upload your own file, the file size limit is kept to 1 MB. "
+"Please make sure that the file you upload is of the same file type you "
+"choose above."
+msgstr ""
+"ここでは、独自のファイルをアップロードできます。ファイルサイズの制限は1 "
+"MBに保持されます。アップロードファイルが上記のファイルタイプと同じであることを確認してください。"
+
+#: dashboard.py:153
+msgid "Uploaded file selected for analysis"
+msgstr "分析用に選択されたアップロードされたファイル"
+
+#: dashboard.py:172
+msgid "Sample file selected for analysis"
+msgstr "分析のために選択されたサンプルファイル"
+
+#: dashboard.py:187
+msgid "Need help ?"
+msgstr "助けが必要 ？"
+
+#: dashboard.py:188
+msgid ""
+"1.For demo, select a sample question and press the \"Use question\" button. \n"
+" If you want to ask your own queries, type in text input and then use the \"Get answer\" button to get the answer.\""
+msgstr ""
+"1.デモの場合は、サンプルの質問を選択して、[質問を使用]ボタンを押します。\n"
+" 独自のクエリを尋ねたい場合は、テキスト入力を入力してから、「回答を取得」ボタンを使用して回答を取得します。」"
+
+#: dashboard.py:193
+msgid "Document Viewer"
+msgstr "ドキュメントビューアー"
+
+#: dashboard.py:201
+msgid "Ask your data queries here"
+msgstr "ここでデータクエリを尋ねてください"
+
+#: dashboard.py:223
+msgid "For your own queries, please login for chat functionality"
+msgstr "あなた自身のクエリについては、チャット機能についてログインしてください"
+
+#: dashboard.py:233
+msgid "Choose a sample question"
+msgstr "サンプルの質問を選択してください"
+
+#: dashboard.py:234
+msgid ""
+"Here few sample questions are provided in dropdown you can check that but if"
+" you want to ask your own questions, please login."
+msgstr "ここでは、ドロップダウンでサンプルの質問が提供されていませんが、それを確認できますが、自分の質問をしたい場合は、ログインしてください。"
+
+#: dashboard.py:236
+msgid "Use question"
+msgstr "質問を使用してください"
+
+#: dashboard.py:241
+msgid "Chat with our LLM-Powered Agent"
+msgstr "LLM駆動のエージェントとチャットします"
+
+#: dashboard.py:242
+msgid "Get Answer"
+msgstr "答えを取得します"
+
+#: dashboard.py:271
+msgid "Generating your answer ✨"
+msgstr "あなたの答えを生成します✨"
+
+#: dashboard.py:289
+msgid "This query does not require answer"
+msgstr "このクエリには答えが必要ありません"
+
+#: dashboard.py:291
+msgid "This query requires above plot"
+msgstr "このクエリには上記のプロットが必要です"
+
+#: dashboard.py:305
+msgid ""
+"Something went wrong! Not able to find anything. Please ask another "
+"question."
+msgstr "何かがうまくいかなかった！何も見つけることができません。別の質問をしてください。"
+
+#: utils/load.py:177
+msgid "File format is incorrect."
+msgstr "ファイル形式が正しくありません。"
+
+#: utils/load.py:254
+msgid ""
+"For the best experience, use a competible browser and view at 1280x720 "
+"resolution."
+msgstr "最高の体験をするには、競合するブラウザを使用して、1280x720の解像度で表示します。"
+
+#: utils/load.py:255
+msgid "2023 AlgoAnalytics, All rights reserved."
+msgstr "2023アルゴナリチクス、すべての権利を留保します。"
+
+#: utils/load.py:256
+msgid " About "
+msgstr "について"
+
+#: utils/load.py:257
+msgid " Services "
+msgstr "サービス"
+
+#: utils/load.py:258
+msgid " Contact "
+msgstr "接触"
+
+#: utils/visualise_files.py:18
+msgid "Which sheet number you would like to see ? "
+msgstr "どのシート番号を見たいですか？"
+
+#: utils/visualise_files.py:19
+msgid "Choose the sheet number you want to see as a tabular format."
+msgstr "表形式として表示するシート番号を選択します。"
+
+#: utils/visualise_files.py:22
+msgid "Using excel as a database now. Therefore nothing to display."
+msgstr "現在、Excelをデータベースとして使用しています。したがって、表示するものはありません。"
+
+#: utils/visualise_files.py:24
+msgid "Using SQLITE database currently."
+msgstr "現在SQLiteデータベースを使用しています。"
+
+#: utils/visualise_files.py:54
+msgid "Travel Document : Chennai Tour Guide "
+msgstr "旅行文書：チェンナイツアーガイド"
+
+#: utils/visualise_files.py:60
+msgid "SQL Database: Hotels Information"
+msgstr "SQLデータベース：ホテル情報"
+
+#: utils/visualise_files.py:85
+msgid "Web search : Google search API"
+msgstr "Web検索：Google検索API"
+
+#: utils/file_type_specific.py:11
+msgid ""
+"Which sheets would you like to analyse(In case you do not choose any, by "
+"default first sheet will be automatically selected)"
+msgstr "どのシートを分析したいか（あなたが選択しない場合、デフォルトで最初のシートが自動的に選択されます）"
+
+#: utils/file_type_specific.py:34
+msgid "You selected:"
+msgstr "あなたは選択しました："
+
+#: utils/file_type_specific.py:69
+msgid "Error while checking the file. Please try again."
+msgstr "ファイルをチェックしているときにエラー。もう一度やり直してください。"
+
+#: utils/file_type_specific.py:74
+msgid "The format is wrong(Should be a dictionary type)"
+msgstr "フォーマットが間違っています（辞書タイプである必要があります）"
+
+#: chat/chat_ui_utils.py:39
+msgid "Clear conversation"
+msgstr "明確な会話"

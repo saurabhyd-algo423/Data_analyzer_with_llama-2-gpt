@@ -1,0 +1,4 @@
+The data contains a quiz with two sections, sport and maths.
+The correct team names in NBA are New York Bulls, Los Angeles Kings, Golden State Warriros, and Huston Rocket.
+12
+There are two types of questions: sport and maths.

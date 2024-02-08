@@ -1,0 +1,17 @@
+version: '3' # update to version 2 for ubuntu 16.04
+services:
+  
+
+  app:
+    build:
+      context: ./
+    container_name: data_analyser_app_llm  # Set a custom container name
+    image: data_analyser_app_llm        # Set a custom image name
+    ports:
+      - '9180:8501' # port mapping, connect with harish for port assignment 
+    networks:
+      - apps_network
+    restart: always  
+
+networks:
+  apps_network:

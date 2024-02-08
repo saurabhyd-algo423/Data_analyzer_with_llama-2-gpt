@@ -1,0 +1,4 @@
+The context does not mention any specific stock. It provides information about the NIFTY 50 index, which represents the weighted average of 50 of the largest Indian companies listed on the National Stock Exchange.
+Nifty 50 is a benchmark Indian stock market index that represents the weighted average of 50 of the largest Indian companies listed on the National Stock Exchange. It was launched on April 22, 1996, and is owned and managed by NSE Indices. The Nifty 50 index covers 13 sectors of the Indian economy and offers investment managers exposure to the Indian market in one portfolio. As of January 2023, Nifty 50 gives a weightage of 36.81% to financial services including banking, 14.70% to IT, 12.17% to oil and gas, 9.02% to consumer goods, and 5.84% to automobiles.
+Nifty 50 is owned and managed by NSE Indices, which is a wholly owned subsidiary of the NSE Strategic Investment Corporation Limited.
+There are 13 sectors in the Nifty 50 index.

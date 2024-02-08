@@ -1,0 +1,3 @@
+The least open value for dataframe 1 is 82.8 and for dataframe 2 is 103.0.
+The number of cells in the first dataframe is 1757 and the number of cells in the second dataframe is 2016.
+The date for the highest closing price in dfs[0] is 09/13/2023 with a value of 144.85. The date for the highest closing price in dfs[1] is 2023-07-18 with a value of 293.339996.

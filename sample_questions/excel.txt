@@ -1,0 +1,3 @@
+Mention the least open values for both the data frames.
+How many cells are there in both the data frames? Mention them separately.
+What is the date for highest closing price for both the dataframes? Mention the values also.
